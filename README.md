@@ -1,2 +1,2 @@
 # Restaurantes-y-bares-de-La-Habana
-Análisis de restaurantes y bares . Estudiar los precios  e ingredientes de la carta de un restaurante 
+Análisis de restaurantes y bares . hacer un análisis de la calidad , precio y opinion de restaurantes y bares   
